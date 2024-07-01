@@ -1,0 +1,260 @@
+.indexbody{
+    background-color: black;
+    background-image: url(Images/indexbg2.jpg);
+    background-position: 0%;
+}
+#pages{
+    padding-top: 250px;
+    text-align: center;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    word-spacing: 50px;
+    color: aliceblue;
+}
+#pages ul{
+    cursor: default;
+    list-style: none;
+}
+#pages li{
+    display: inline;
+}
+#pages a{
+    text-decoration: none;
+    color: aliceblue;
+}
+#pages li:hover{
+    color: darkgoldenrod;
+}
+#footpage{
+    cursor: default;
+    padding-top: 15%;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    color: goldenrod;
+    font-size: 18px;
+}
+.introductionbody{
+    background-repeat: round;
+    background-image: url(Images/introduction2.jpg);
+    background-color: black;
+}
+.name{
+    color: aliceblue;
+}
+#name{
+    font-size: 20px;
+    color: goldenrod;
+}
+#para1{
+    margin-left: 50px;
+    color: aliceblue;
+    font-size: 25px;
+}
+.qualification{
+    color: aliceblue;
+}
+#qualification{
+    font-size: 20px;
+    color: goldenrod;
+}
+#quali{
+    margin-left: 50px;
+    list-style-type: circle;
+    color: aliceblue;
+    font-size: 25px;
+}
+.experience{
+    color: aliceblue;
+}
+#experience{
+    font-size: 20px;
+    color: goldenrod;
+}
+#li1{
+    margin-left: 50px;
+    color: aliceblue;
+    font-size: 25px;
+    list-style-type: circle;
+}
+#li2{
+    margin-left: 50px;
+    color: aliceblue;
+    font-size: 25px;
+    list-style-type: circle;
+}
+.toachieve{
+    color: aliceblue;
+}
+#toachieve{
+    color: goldenrod;
+    font-size: 20px;
+}
+#para2{
+    color: aliceblue;
+    font-size: 25px;
+    margin-left: 50px;
+}
+#footerlinks{
+    padding-top: 10%;
+    padding-left: 10%;
+    word-spacing: 1.5em;
+    font-size: 30px;
+    font-weight: bold;
+}
+#footerlinks ul{
+    cursor: default;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+}
+#footerlinks li{
+    color: aliceblue;
+}
+#footerlinks a{
+    text-decoration: none;
+}
+#footerlinks li:hover{
+    color: goldenrod;
+}
+.portfoliobody{
+    cursor: default;
+    background-repeat: round;
+    background-image: url(Images/portfolio.jpg);
+    background-color: black;
+}
+#portfoliohead{
+    font-size: 25px;
+    color: goldenrod;
+}
+#project1{
+    font-size: 20px;
+    color: goldenrod;
+}
+.projects a{
+    text-decoration: none;
+}
+.projects li{
+    font-size: 25px;
+    color: aliceblue;
+    list-style: circle;
+}
+#project2{
+    font-size: 20px;
+    color: goldenrod;
+}
+#project3{
+    font-size: 20px;
+    color: goldenrod;
+}
+#casestudyhead{
+    font-size: 25px;
+    color: goldenrod;
+}
+#casestudy1{
+    font-size: 20px;
+    color: goldenrod;
+}
+.casestudies a{
+    text-decoration: none;
+}
+.casestudies li{
+    font-size: 25px;
+    color: aliceblue;
+    list-style: circle;
+}
+#casestudy2{
+    font-size: 20px;
+    color: goldenrod;
+}
+#casestudy3{
+    font-size: 20px;
+    color: goldenrod;
+}
+#skills{
+    font-size: 25px;
+    color: goldenrod;
+}
+.skills p{
+    font-size: 25px;
+    color: aliceblue;
+}
+.edubg{
+    background-repeat: round;
+    background-image: url(Images/qualification2.jpg);
+    background-color: black;
+}
+#edu{
+    justify-content: center;
+    display: flex;
+    font-size: 25px;
+    color: goldenrod;
+}
+#school{
+    color: goldenrod;
+    font-size: 20px;
+}
+.school li{
+    font-size: 25px;
+    color: aliceblue;
+    list-style: disc;
+}
+#college{
+    color: goldenrod;
+    font-size: 20px;
+}
+.college li{
+    font-size: 25px;
+    color: aliceblue;
+    list-style: disc;
+}
+#major{
+    color: goldenrod;
+    font-size: 20px;
+}
+.major li{
+    font-size: 25px;
+    color: aliceblue;
+    list-style: disc;
+}
+#minor{
+    color: goldenrod;
+    font-size: 20px;
+}
+.minor li{
+    font-size: 25px;
+    color: aliceblue;
+    list-style: disc;
+}
+.socialbody{
+    background-image: url(Images/social.jpg);
+    cursor: default;
+    background-color: black;
+}
+#social{
+    justify-content: center;
+    display: flex;
+    color: goldenrod;
+    font-size: 30px;
+}
+.sociallinks{
+    justify-content: center;
+    display: flex;
+    font-size: 25px;
+    word-spacing: 2em;
+}
+.sociallinks li{
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    font-size: 22px;
+    display: inline;
+}
+.sociallinks a{
+    text-decoration: none;
+}
+.sociallinks li:hover{
+    color: goldenrod;
+}
