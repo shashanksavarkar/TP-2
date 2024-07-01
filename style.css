@@ -1,6 +1,6 @@
 .indexbody{
     background-color: black;
-    background-image: url(Images/indexbg2.jpg);
+    background-image: url(indexbg2.jpg);
     background-position: 0%;
 }
 #pages{
@@ -37,7 +37,7 @@
 }
 .introductionbody{
     background-repeat: round;
-    background-image: url(Images/introduction2.jpg);
+    background-image: url(introduction2.jpg);
     background-color: black;
 }
 .name{
@@ -122,7 +122,7 @@
 .portfoliobody{
     cursor: default;
     background-repeat: round;
-    background-image: url(Images/portfolio.jpg);
+    background-image: url(portfolio.jpg);
     background-color: black;
 }
 #portfoliohead{
@@ -183,7 +183,7 @@
 }
 .edubg{
     background-repeat: round;
-    background-image: url(Images/qualification2.jpg);
+    background-image: url(qualification2.jpg);
     background-color: black;
 }
 #edu{
@@ -229,7 +229,7 @@
     list-style: disc;
 }
 .socialbody{
-    background-image: url(Images/social.jpg);
+    background-image: url(social.jpg);
     cursor: default;
     background-color: black;
 }
